@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: abinas99
+Build-Jdk: 11.0.20.1
+Implementation-Title: PDZ068
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Teknor
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/PDZ068
+Created-By: Maven Integration for Eclipse
+
